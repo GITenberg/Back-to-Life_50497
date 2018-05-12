@@ -1,4 +1,8 @@
 _repo: Back-to-Life_50497
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gibbs, Philip
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1174
     wikipedia: http://en.wikipedia.org/wiki/Philip_Gibbs
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50497#Back-to-Life
 gutenberg_issued: '2015-11-19'
 gutenberg_type: Text
 identifiers:
